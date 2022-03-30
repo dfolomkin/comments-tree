@@ -1,0 +1,1 @@
+export { EditPostInput } from './EditPostInput';

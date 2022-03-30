@@ -1,0 +1,1 @@
+export { PostInputView } from './PostInputView';
